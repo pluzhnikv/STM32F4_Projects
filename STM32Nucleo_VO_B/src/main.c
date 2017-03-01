@@ -2,7 +2,7 @@
 * STM32F401RE NUCLEO board start project
 *
 * Author: 		Pluzhnik Victor
-* Create date: 	05.06.15
+* Create date: 	07.06.15
 *
 * Info: Console parser work at UART2 port at speed 115200 (see Init for settings)
 *
